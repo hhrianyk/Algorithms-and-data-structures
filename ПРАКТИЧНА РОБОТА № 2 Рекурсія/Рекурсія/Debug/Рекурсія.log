@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\дом\source\repos\Рекурсія\Рекурсія\Source.cpp(20,10): warning C4244: инициализация: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\дом\source\repos\Рекурсія\Рекурсія\Source.cpp(25,6): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+  Рекурсія.vcxproj -> C:\Users\дом\source\repos\Рекурсія\Debug\Рекурсія.exe
